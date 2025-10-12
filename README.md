@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-### 👋 Merhaba,Hallo, Hola, こんにちは, Olá, Ciao, Привет I am  Mehmet Yılmaz
+### 👋 Merhaba,Hallo, Hola, こんにちは, Olá, Ciao, Привет 
+I am  Mehmet Yılmaz
 🔭 QA Automation Engineer | Java & Selenium , JS & Playwright
+
 🎯 Software Test Engineer with hands-on experience in:
 - ✅ UI test automation 
 - ✅ API testing with Postman & REST Assured
