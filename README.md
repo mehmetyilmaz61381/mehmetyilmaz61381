@@ -12,4 +12,5 @@ I am  Mehmet Yılmaz
 - ✅ Agile/Scrum team collaboration
 📫  Reach me at: mehmetyilmaz61381@gmail.com  
 🚀 Portfolyo English version: [mehmetyilmaz61381.github.io/resume](https://mehmetyilmaz61381.github.io/resume/)
-🚀 Portfolyo German  version: [mehmetyilmaz61381.github.io/resume](https://mehmetyilmaz61381.github.io/resume/)
+
+🚀 Portfolyo German  version: [mehmetyilmaz61381.github.io/resume](https://mehmetyilmaz61381.github.io/resumeEnDe/)
